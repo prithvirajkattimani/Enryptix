@@ -3,4 +3,4 @@
 
 ![MOCKUP FIGMA](https://github.com/user-attachments/assets/e56a6a50-3f38-4231-9159-32ddd14f885a)
 
-![Mobile App Sign up Flow](https://github.com/user-attachments/assets/c5dba2b3-33a1-4ad4-b110-1dae7bf3562d)
+![Mobile App Sign up Flow](https://github.com/user-attachments/assets/ea141b17-16b4-491f-b1e4-575e024c0b5f)
