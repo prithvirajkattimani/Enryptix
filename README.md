@@ -53,7 +53,7 @@ Simple form layout with:
 
 | Screen | Preview |
 |--------|---------|
-| Sign Up | ![Sign Up]([link-to-image](https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1)) |
+| Sign Up | ![Sign Up] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 )|
 | OTP | ![OTP](link-to-image) |
 | Congrats | ![Congrats](link-to-image) |
 | Sign In | ![Sign In](link-to-image) |
