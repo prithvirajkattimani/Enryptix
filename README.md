@@ -3,6 +3,8 @@
 A clean and modern **mobile sign-up flow** designed in Figma. This flow focuses on simplicity, clarity, and a visually engaging user experience with smooth transitions and essential user actions.
 
 ---
+## ScreenShots
+![Screenshot 2025-06-05 205515](https://github.com/user-attachments/assets/963ee766-4669-40b1-9c80-d712bd39f724)
 
 ## ✨ Screens Included
 
@@ -54,8 +56,8 @@ Simple form layout with:
 | Screen | Preview |
 |--------|---------|
 | Sign Up | ![Sign Up] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 )|
-| OTP | ![OTP](link-to-image) |
-| Congrats | ![Congrats](link-to-image) |
-| Sign In | ![Sign In](link-to-image) |
+| OTP | ![OTP]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-141&t=PqJwkp0a0Jzvt0Lu-1 ) |
+| Congrats | ![Congrats]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-234&t=PqJwkp0a0Jzvt0Lu-1 ) |
+| Sign In | ![Sign In]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 ) |
 
 
