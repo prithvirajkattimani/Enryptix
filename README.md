@@ -13,6 +13,8 @@ A clean layout with well-structured input fields and a gradient header that draw
 - Email or Phone Number  
 - First and Second Name  
 - Password and Confirm Password
+
+
 ![Sign Up](https://github.com/user-attachments/assets/e75524aa-468b-4db6-9cc3-5b6dd5c0589e)
 
 
