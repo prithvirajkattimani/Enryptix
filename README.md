@@ -13,6 +13,9 @@ A clean layout with well-structured input fields and a gradient header that draw
 - Email or Phone Number  
 - First and Second Name  
 - Password and Confirm Password
+![Sign Up](https://github.com/user-attachments/assets/e75524aa-468b-4db6-9cc3-5b6dd5c0589e)
+
+
 
 > ✅ *Goal: Keep onboarding simple and non-intimidating.*
 
@@ -22,6 +25,7 @@ A clean layout with well-structured input fields and a gradient header that draw
 Minimal OTP input with a message prompting users to check their email. The spacing and layout reduce cognitive load for quick verification.
 
 > 🔒 *Goal: Smooth and focused OTP entry.*
+![OTP](https://github.com/user-attachments/assets/9862b86f-ff7f-440b-afb0-5844dae576fa)
 
 ---
 
@@ -29,6 +33,7 @@ Minimal OTP input with a message prompting users to check their email. The spaci
 A cheerful success screen with an illustration and simple confirmation message.
 
 > 🎉 *Goal: Encourage and reward the user for completing the sign-up.*
+![Congrats Message](https://github.com/user-attachments/assets/8e189454-3397-434d-8b30-419221aece58)
 
 ---
 
@@ -40,6 +45,7 @@ Simple form layout with:
 - Link to password recovery
 
 > 🔑 *Goal: Enable fast and familiar login options.*
+![Sign In](https://github.com/user-attachments/assets/431d9d51-b9e0-4600-88d4-4c69ad036196)
 
 ---
 
@@ -56,8 +62,8 @@ Simple form layout with:
 | Screen | Preview |
 |--------|---------|
 | Sign Up | ![Sign Up] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 )|
-| OTP | ![OTP]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-141&t=PqJwkp0a0Jzvt0Lu-1 ) |
-| Congrats | ![Congrats]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-234&t=PqJwkp0a0Jzvt0Lu-1 ) |
-| Sign In | ![Sign In]( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 ) |
+| OTP | ![OTP] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-141&t=PqJwkp0a0Jzvt0Lu-1 ) |
+| Congrats | ![Congrats] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=8-234&t=PqJwkp0a0Jzvt0Lu-1 ) |
+| Sign In | ![Sign In] ( https://www.figma.com/design/Wyn9xMMvVxXIhshLwK30so/Untitled?node-id=1-2&t=PqJwkp0a0Jzvt0Lu-1 ) |
 
 
