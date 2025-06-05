@@ -1,7 +1,61 @@
-# Project - 1 
-# MOBILE SIGN UP FLOW
+# 📱 Mobile Sign-Up Flow UI
+
+A clean and modern **mobile sign-up flow** designed in Figma. This flow focuses on simplicity, clarity, and a visually engaging user experience with smooth transitions and essential user actions.
+
+---
+
+## ✨ Screens Included
+
+### 1. **Sign Up Page**
+A clean layout with well-structured input fields and a gradient header that draws attention downward. The form captures:
+- Email or Phone Number  
+- First and Second Name  
+- Password and Confirm Password
+
+> ✅ *Goal: Keep onboarding simple and non-intimidating.*
+
+---
+
+### 2. **OTP Verification**
+Minimal OTP input with a message prompting users to check their email. The spacing and layout reduce cognitive load for quick verification.
+
+> 🔒 *Goal: Smooth and focused OTP entry.*
+
+---
+
+### 3. **Congrats Message**
+A cheerful success screen with an illustration and simple confirmation message.
+
+> 🎉 *Goal: Encourage and reward the user for completing the sign-up.*
+
+---
+
+### 4. **Sign In Page**
+Simple form layout with:
+- Avatar placeholder
+- Email/Phone and Password fields
+- Social login (Google, Facebook, LinkedIn)
+- Link to password recovery
+
+> 🔑 *Goal: Enable fast and familiar login options.*
+
+---
+
+## 🛠️ Tools Used
+
+- 🎨 **Figma** – for UI design & prototyping  
+- 🖋️ **Poppins Font** – clean and modern typography  
+- 📦 **Feather/Material Icons** – clean and scalable icon system
+
+---
+
+## 📷 Design Preview
+
+| Screen | Preview |
+|--------|---------|
+| Sign Up | ![Sign Up](link-to-image) |
+| OTP | ![OTP](link-to-image) |
+| Congrats | ![Congrats](link-to-image) |
+| Sign In | ![Sign In](link-to-image) |
 
 
-![Mock Up](https://github.com/user-attachments/assets/ff7ae745-e1e5-4592-8aa2-539f491972b5)
-
-# ScreenShots
