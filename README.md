@@ -7,7 +7,7 @@ A clean and modern **mobile sign-up flow** designed in Figma. This flow focuses 
 ![Screenshot 2025-06-05 205515](https://github.com/user-attachments/assets/963ee766-4669-40b1-9c80-d712bd39f724)
 
 ## ✨ Screens Included
-
+Balanced Sign In page with a friendly avatar, minimal form layout, and easy access to social login options. The flow keeps user engagement intact with clean structure and modern UI.
 ### 1. **Sign In Page**
 Simple form layout with:
 - Avatar placeholder
