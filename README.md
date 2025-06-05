@@ -8,20 +8,23 @@ A clean and modern **mobile sign-up flow** designed in Figma. This flow focuses 
 
 ## ✨ Screens Included
 
-### 1. **Sign Up Page**
-A clean layout with well-structured input fields and a gradient header that draws attention downward. The form captures:
-- Email or Phone Number  
-- First and Second Name  
-- Password and Confirm Password
+### 1. **Sign In Page**
+Simple form layout with:
+- Avatar placeholder
+- Email/Phone and Password fields
+- Social login (Google, Facebook, LinkedIn)
+- Link to password recovery
 
 
-![Sign Up](https://github.com/user-attachments/assets/e75524aa-468b-4db6-9cc3-5b6dd5c0589e)
+![Sign In](https://github.com/user-attachments/assets/431d9d51-b9e0-4600-88d4-4c69ad036196)
 
 
 
-> ✅ *Goal: Keep onboarding simple and non-intimidating.*
+> 🔑 *Goal: Enable fast and familiar login options.*
+
 
 ---
+
 
 ### 2. **OTP Verification**
 Minimal OTP input with a message prompting users to check their email. The spacing and layout reduce cognitive load for quick verification.
@@ -49,22 +52,20 @@ A cheerful success screen with an illustration and simple confirmation message.
 
 ---
 
-### 4. **Sign In Page**
-Simple form layout with:
-- Avatar placeholder
-- Email/Phone and Password fields
-- Social login (Google, Facebook, LinkedIn)
-- Link to password recovery
+### 4. **Sign Up Page**
+A clean layout with well-structured input fields and a gradient header that draws attention downward. The form captures:
+- Email or Phone Number  
+- First and Second Name  
+- Password and Confirm Password
 
 
-![Sign In](https://github.com/user-attachments/assets/431d9d51-b9e0-4600-88d4-4c69ad036196)
+![Sign Up](https://github.com/user-attachments/assets/e75524aa-468b-4db6-9cc3-5b6dd5c0589e)
 
 
 
-> 🔑 *Goal: Enable fast and familiar login options.*
+> ✅ *Goal: Keep onboarding simple and non-intimidating.*
 
-
----
+----
 
 ## 🛠️ Tools Used
 
