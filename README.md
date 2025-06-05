@@ -26,33 +26,7 @@ Simple form layout with:
 ---
 
 
-### 2. **OTP Verification**
-Minimal OTP input with a message prompting users to check their email. The spacing and layout reduce cognitive load for quick verification.
-
-
-![OTP](https://github.com/user-attachments/assets/9862b86f-ff7f-440b-afb0-5844dae576fa)
-
-
-
-> 🔒 *Goal: Smooth and focused OTP entry.*
-
-
----
-
-### 3. **Congrats Message**
-A cheerful success screen with an illustration and simple confirmation message.
-
-
-![Congrats Message](https://github.com/user-attachments/assets/8e189454-3397-434d-8b30-419221aece58)
-
-
-
-> 🎉 *Goal: Encourage and reward the user for completing the sign-up.*
-
-
----
-
-### 4. **Sign Up Page**
+### 2. **Sign Up Page**
 A clean layout with well-structured input fields and a gradient header that draws attention downward. The form captures:
 - Email or Phone Number  
 - First and Second Name  
@@ -66,6 +40,32 @@ A clean layout with well-structured input fields and a gradient header that draw
 > ✅ *Goal: Keep onboarding simple and non-intimidating.*
 
 ----
+
+### 3. **OTP Verification**
+Minimal OTP input with a message prompting users to check their email. The spacing and layout reduce cognitive load for quick verification.
+
+
+![OTP](https://github.com/user-attachments/assets/9862b86f-ff7f-440b-afb0-5844dae576fa)
+
+
+
+> 🔒 *Goal: Smooth and focused OTP entry.*
+
+
+---
+
+### 4. **Congrats Message**
+A cheerful success screen with an illustration and simple confirmation message.
+
+
+![Congrats Message](https://github.com/user-attachments/assets/8e189454-3397-434d-8b30-419221aece58)
+
+
+
+> 🎉 *Goal: Encourage and reward the user for completing the sign-up.*
+
+
+---
 
 ## 🛠️ Tools Used
 
