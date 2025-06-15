@@ -28,8 +28,8 @@ RunVibe is a modern, high-contrast, and performance-focused e-commerce website c
 | Tool          | Purpose                        |
 |---------------|--------------------------------|
 | **Figma**     | UI/UX Design                   |
-| **Unsplash  | Product image mockups |
+| **Unsplash**  | Product image mockups |
 | **Color Palette** | Black + White |
-| **Font**       | Poppins (example) |
+| **Font**       | Poppins |
 
 ---
