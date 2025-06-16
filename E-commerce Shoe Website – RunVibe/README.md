@@ -5,7 +5,8 @@ RunVibe is a modern, high-contrast, and performance-focused e-commerce website c
 ---
 
 ## 🖼️ Preview
-![RunVibe](https://github.com/user-attachments/assets/00fd2c13-3ec3-4a86-aafd-6477ac47e080)
+![RunVibe](https://github.com/user-attachments/assets/ca289a9e-06cd-45cb-b6d4-f4c751324e59)
+
 
 
 
