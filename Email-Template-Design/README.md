@@ -4,8 +4,9 @@ MailMuse is a sleek and modern landing page for promoting **email template desig
 
 ---
 
-## 🌐 Live Preview
-(https://github.com/user-attachments/assets/ca74b9a8-fc71-4689-8475-0b8e601ac286)
+##  Preview
+![Home • Desktop](https://github.com/user-attachments/assets/977d9d1f-0c61-469e-80cf-d3a7194a52cf)
+
 
 ---
 
